@@ -1,0 +1,28 @@
+body{
+    
+    background-image: url(images/baseballfield%20copy.jpg);
+    background-position: top center;
+}
+
+
+table, td, tr, th{
+    border: 1px solid azure;
+    border-collapse: collapse;
+    color: azure;
+    background-color: rgba(0,0,0,.2);
+    font-size: 16pt;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+#titles{
+    color:azure;
+}
+
+#Days #Empolyees {
+    
+    padding: 10px;
+    font-weight: bold;
+    font-style: italic;
+}
