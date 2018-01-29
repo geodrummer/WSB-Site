@@ -9,9 +9,9 @@ $webmaster_email = "broadwaysystem@gmail.com";
 This bit sets the URLs of the supporting pages.
 If you change the names of any of the pages, you will need to change the values here.
 */
-$feedback_page = "WSB Availabilty.html";
-$error_page = "WSB Error.html";
-$thankyou_page = "WSB Thank You.html";
+$feedback_page = "WSB%20Availabilty.html";
+$error_page = "WSB%20Error.html";
+$thankyou_page = "WSB%20Thank%20You.html";
 
 /*
 This next bit loads the form field data into variables.
@@ -69,7 +69,7 @@ header( "Location: $error_page" );
 // If we passed all previous tests, send the email then redirect to the thank you page.
 else {
 
-	mail( "$webmaster_email", "Feedback Form Results", $msg );
+	mail( "$webmaster_email", "Availablity", $msg );
 
 	header( "Location: $thankyou_page" );
 }
