@@ -4,7 +4,9 @@
     
     <head>
         <link href="WSB%20Stye.css" type="text/css" rel="stylesheet">
+        <script type="text/javascript" src="includeHTML.js"></script>
         <title> WSB Schedule</title>
+        
         
         <script> //to make it easier to edit, instead of typing the whole thing
         var c = "Concession 5:15pm "
@@ -270,8 +272,9 @@
         </table>
         
             <br />
-    
-        <ul>
+            
+          <div w3-include-html="navbar.html"></div>
+            <!--<ul>
             <li><a href="WSB%20Homepage.html" id="titles"><h3>Home</h3></a></li>
             
            <li><a href="WSB%20Schedule.html" id="titles" class="active"><h3>Schedule</h3></a></li>
@@ -282,7 +285,11 @@
             
             <li><a href="WSB%20Availabilty.html" id="titles"><h3>Availabilty</h3></a></li>
             
-            </ul>
+            </ul>-->
+            
+            <script>
+            includeHTML();
+            </script>
             
             <footer>
                <br /> &copy;GreenMountainWebs 2018
