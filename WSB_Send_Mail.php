@@ -9,9 +9,9 @@ $webmaster_email = "broadwaysystem@gmail.com";
 This bit sets the URLs of the supporting pages.
 If you change the names of any of the pages, you will need to change the values here.
 */
-$feedback_page = "WSB%20Availabilty.html";
-$error_page = "WSB%20Error.html";
-$thankyou_page = "WSB%20Thank%20You.html";
+$feedback_page = "WSB_Availabilty.html";
+$error_page = "WSB_Error.html";
+$thankyou_page = "WSB_Thank_You.html";
 
 /*
 This next bit loads the form field data into variables.
