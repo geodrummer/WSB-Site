@@ -1,8 +1,8 @@
 {
     "c": "Concession 5:15pm",
-    "s1": "Scorekeeper F1 5:30pm",
-    "s2": "Scorekeeper F2 5:30pm",
-    "s3": "Scorekeeper F3 5:30pm",
+    "s1": "Scorekeeper F1 5:30pm ",
+    "s2": "Scorekeeper F2 5:30pm ",
+    "s3": "Scorekeeper F3 5:30pm ",
     "t": "Tickets 5:15pm",
     "g": "Gate 5:15pm",
     "f": "Field Maintenance",
@@ -10,5 +10,16 @@
     "r": "Raspas 5:30pm",
     "tg": "Traning with Geo 5:30pm",
     "tl": "Traning with Lucas 5:30pm",
-    "fl": "Floater"
+    "fl": "Floater",
+    "sh4": "Shetland 4",
+    "shb": "Shetland Boys",
+    "shg": "Shetland Girls",
+    "pb": "Pinto Boys",
+    "pg": "Pinto Girls",
+    "mb": "Mustang Boys",
+    "mg": "Mustang Girls",
+    "bb": "Bronco Boys",
+    "bg": "Bronco Girls",
+    "pnb": "Pony Boys",
+    "png": "Pony Girls"
 }
