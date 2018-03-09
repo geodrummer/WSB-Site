@@ -1,8 +1,7 @@
-WSB Site
-========
+#WSB Site
 
-How to run application for development with Windows
---------
+##How to run application for development with Windows
+
 **Install Apache**
 1. Download Apache. Apache 2.4.29 Win64.
 2. Add Apache bin to path.
