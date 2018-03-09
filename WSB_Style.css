@@ -1,5 +1,4 @@
-body{
-    
+body {
     background-image: url(images/11032076_10153239894807510_3491830289207488656_n.jpg);
     background-position: top center;
     background-repeat: no-repeat;
@@ -7,30 +6,30 @@ body{
     background-attachment: fixed;
 }
 
-
-table, td, tr, th{
+table,
+td,
+tr,
+th {
     border: 1px solid azure;
     border-collapse: collapse;
     color: azure;
-    background-color: rgba(0,0,0,.2);
+    background-color: rgba(0, 0, 0, .2);
     font-size: 16pt;
     padding: 10px;
     text-align: center;
-    
 }
 
-#titles{
-    color:azure;
+#titles {
+    color: azure;
 }
 
 #Days #Empolyees {
-    
     padding: 10px;
     font-weight: bold;
     font-style: italic;
 }
 
-ul{ 
+ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -39,11 +38,11 @@ ul{
     width: 366;
 }
 
-li{
+li {
     float: left;
 }
 
-li a{
+li a {
     display: block;
     color: #000;
     padding: 5px;
@@ -55,6 +54,6 @@ li a:hover {
     color: white;
 }
 
-.active{
+.active {
     background-color: #4CAF50;
 }
