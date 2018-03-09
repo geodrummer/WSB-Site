@@ -1,0 +1,371 @@
+{
+    "startDate": "",
+    "endDate": "",
+    "supervisors": [
+        {
+            "name": "Gabriel",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Geo",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Lucas",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        }
+    ],
+    "employees": [
+        {
+            "name": "Ashley",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Baldemar",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Brianna",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Britney",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Christina",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Cris",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Destiny",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Gabby",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Jared",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Jeffery",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Joel",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Jose",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Josh",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Jon",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Jolissa",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Juan",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Justin",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Kyle",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Karina",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Magali",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Makayla",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Mandy",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Mark",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Max",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Priscilla",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Sabrina",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Sam",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Stephanie",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Sydney",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        },
+        {
+            "name": "Veronica",
+            "schedule": {
+                "monday": "x",
+                "tuesday": "x",
+                "wednesday": "x",
+                "thursday": "x",
+                "friday": "x",
+                "saturday": "x"
+            }
+        }
+    ]
+}
