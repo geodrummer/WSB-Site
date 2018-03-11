@@ -70,7 +70,7 @@ elseif (isInjected($email_address) || isInjected($first_name) || isInjected($com
 
 // If we passed all previous tests, send the email then redirect to the thank you page.
 else {
-    mail(impolde(","$webmaster_email), 'Availablity', $msg, $headers);
+    mail(impolde(",",$webmaster_email), 'Availablity', $msg, $headers);
 
     header("Location: $thankyou_page");
 }
