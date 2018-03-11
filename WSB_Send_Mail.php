@@ -3,7 +3,7 @@
 This first bit sets the email address that you want the form to be submitted to.
 You will need to change this value to a valid email address that you can access.
 */
-$webmaster_email = 'broadwaysystem@gmail.com', 'gabe93caballero@gmail.com';
+$webmaster_email = ['broadwaysystem@gmail.com','gabe93caballero@gmail.com'];
 
 /*
 This bit sets the URLs of the supporting pages.
@@ -70,7 +70,7 @@ elseif (isInjected($email_address) || isInjected($first_name) || isInjected($com
 
 // If we passed all previous tests, send the email then redirect to the thank you page.
 else {
-    mail("$webmaster_email", 'Availablity', $msg, $headers);
+    mail(impolde(","$webmaster_email), 'Availablity', $msg, $headers);
 
     header("Location: $thankyou_page");
 }
