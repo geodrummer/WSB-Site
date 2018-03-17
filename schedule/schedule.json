@@ -16,10 +16,10 @@
         {
             "name": "Geo",
             "schedule": {
-                "monday": "x",
+                "monday": "g",
                 "tuesday": "x",
-                "wednesday": "x",
-                "thursday": "x",
+                "wednesday": "g",
+                "thursday": "s2shb",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -28,8 +28,8 @@
             "name": "Lucas",
             "schedule": {
                 "monday": "x",
-                "tuesday": "x",
-                "wednesday": "x",
+                "tuesday": "s2sh4",
+                "wednesday": "g",
                 "thursday": "x",
                 "friday": "x",
                 "saturday": "x"
@@ -51,10 +51,10 @@
         {
             "name": "Baldemar",
             "schedule": {
-                "monday": "x",
-                "tuesday": "x",
+                "monday": "s3shg",
+                "tuesday": "s3shg",
                 "wednesday": "x",
-                "thursday": "x",
+                "thursday": "s3pg",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -64,7 +64,7 @@
             "schedule": {
                 "monday": "x",
                 "tuesday": "x",
-                "wednesday": "x",
+                "wednesday": "c",
                 "thursday": "x",
                 "friday": "x",
                 "saturday": "x"
@@ -76,7 +76,7 @@
                 "monday": "x",
                 "tuesday": "x",
                 "wednesday": "x",
-                "thursday": "x",
+                "thursday": "c",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -85,7 +85,7 @@
             "name": "Christina",
             "schedule": {
                 "monday": "x",
-                "tuesday": "x",
+                "tuesday": "td",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
@@ -119,8 +119,8 @@
             "schedule": {
                 "monday": "x",
                 "tuesday": "x",
-                "wednesday": "x",
-                "thursday": "x",
+                "wednesday": "t",
+                "thursday": "t",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -140,7 +140,7 @@
             "name": "Jeffery",
             "schedule": {
                 "monday": "x",
-                "tuesday": "x",
+                "tuesday": "t",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
@@ -183,7 +183,7 @@
         {
             "name": "Jon",
             "schedule": {
-                "monday": "x",
+                "monday": "c",
                 "tuesday": "x",
                 "wednesday": "x",
                 "thursday": "x",
@@ -195,7 +195,7 @@
             "name": "Jolissa",
             "schedule": {
                 "monday": "x",
-                "tuesday": "x",
+                "tuesday": "c",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
@@ -208,7 +208,7 @@
                 "monday": "x",
                 "tuesday": "x",
                 "wednesday": "x",
-                "thursday": "x",
+                "thursday": "g",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -216,8 +216,8 @@
         {
             "name": "Justin",
             "schedule": {
-                "monday": "x",
-                "tuesday": "x",
+                "monday": "s2sh4",
+                "tuesday": "s1shb",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
@@ -227,9 +227,9 @@
         {
             "name": "Kyle",
             "schedule": {
-                "monday": "x",
+                "monday": "g",
                 "tuesday": "x",
-                "wednesday": "x",
+                "wednesday": "s1pb",
                 "thursday": "x",
                 "friday": "x",
                 "saturday": "x"
@@ -240,7 +240,7 @@
             "schedule": {
                 "monday": "x",
                 "tuesday": "x",
-                "wednesday": "x",
+                "wednesday": "s3pg",
                 "thursday": "x",
                 "friday": "x",
                 "saturday": "x"
@@ -252,7 +252,7 @@
                 "monday": "x",
                 "tuesday": "x",
                 "wednesday": "x",
-                "thursday": "x",
+                "thursday": "tg",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -262,7 +262,7 @@
             "schedule": {
                 "monday": "x",
                 "tuesday": "x",
-                "wednesday": "x",
+                "wednesday": "c",
                 "thursday": "x",
                 "friday": "x",
                 "saturday": "x"
@@ -282,10 +282,10 @@
         {
             "name": "Mark",
             "schedule": {
-                "monday": "x",
+                "monday": "s1shb",
                 "tuesday": "x",
-                "wednesday": "x",
-                "thursday": "x",
+                "wednesday": "s2sh4",
+                "thursday": "s1pb",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -296,7 +296,7 @@
                 "monday": "x",
                 "tuesday": "x",
                 "wednesday": "x",
-                "thursday": "x",
+                "thursday": "g",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -316,7 +316,7 @@
             "name": "Sabrina",
             "schedule": {
                 "monday": "x",
-                "tuesday": "x",
+                "tuesday": "c",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
@@ -326,8 +326,8 @@
         {
             "name": "Sam",
             "schedule": {
-                "monday": "x",
-                "tuesday": "x",
+                "monday": "c",
+                "tuesday": "g",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
@@ -359,8 +359,8 @@
         {
             "name": "Veronica",
             "schedule": {
-                "monday": "x",
-                "tuesday": "x",
+                "monday": "t",
+                "tuesday": "g",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
