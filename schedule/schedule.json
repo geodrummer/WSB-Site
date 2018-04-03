@@ -63,7 +63,7 @@
             "name": "Bryanna",
             "schedule": {
                 "monday": "x",
-                "tuesday": "c",
+                "tuesday": "x",
                 "wednesday": "c",
                 "thursday": "x",
                 "friday": "x",
@@ -73,7 +73,7 @@
         {
             "name": "Britney",
             "schedule": {
-                "monday": "c",
+                "monday": "x",
                 "tuesday": "x",
                 "wednesday": "x",
                 "thursday": "x",
@@ -85,9 +85,9 @@
             "name": "Christina",
             "schedule": {
                 "monday": "x",
-                "tuesday": "c",
-                "wednesday": "x",
-                "thursday": "c",
+                "tuesday": "x",
+                "wednesday": "c",
+                "thursday": "x",
                 "friday": "x",
                 "saturday": "x"
             }
@@ -238,8 +238,8 @@
         {
             "name": "Magali",
             "schedule": {
-                "monday": "s3shg",
-                "tuesday": "s3shg",
+                "monday": "x",
+                "tuesday": "s1bb",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
@@ -250,11 +250,11 @@
             "name": "Makayla",
             "schedule": {
                 "monday": "x",
-                "tuesday": "s1bb",
+                "tuesday": "x",
                 "wednesday": "x",
                 "thursday": "x",
                 "friday": "x",
-                "saturday": "x"
+                "saturday": "c"
             }
         },
         {
